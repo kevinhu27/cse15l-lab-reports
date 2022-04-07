@@ -5,8 +5,7 @@
 ## Markdown Demonstration
 ![Image](https://mdg.imgix.net/assets/images/markdown-flowchart.png) 
 
-[Link](https://www.markdownguide.org/getting-started/)
-`This is the link for more information on markdown`
+`This is the [Link](https://www.markdownguide.org/getting-started/) for more information on markdown`
 
 **Hello world!**
 
