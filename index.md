@@ -4,8 +4,7 @@
 
 ## Markdown Demonstration
 ![Image](https://mdg.imgix.net/assets/images/markdown-flowchart.png) 
-
-`This is the [Link](https://www.markdownguide.org/getting-started/) for more information on markdown`
+[More information on markdown: ](https://www.markdownguide.org/getting-started/)
 
 **Hello world!**
 
