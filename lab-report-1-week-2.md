@@ -6,7 +6,7 @@
 ## Remotely Connecting 
 ![remote](https://user-images.githubusercontent.com/78109412/162641804-a06eff50-48aa-4fbb-a50e-9e84e24b43f1.JPG)
 * Install OpenSSH Client and OpenSSH Server
-* Run 'ssh cs15lsp22zzz@ieng6.ucsd.edu' in VScode terminal, replacing 'zzz' with course account id
+* Run `ssh cs15lsp22zzz@ieng6.ucsd.edu` in VScode terminal, replacing 'zzz' with course account id
 * Reset/set password for cs15lsp22 account
 
 ## Trying Commands
