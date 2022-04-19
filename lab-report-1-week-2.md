@@ -11,7 +11,7 @@
 
 ## Trying Commands
 ![commands](https://user-images.githubusercontent.com/78109412/162642220-2d67d414-ff65-4855-a0a7-a9128d9a014e.JPG)
-* Run terminal commands such as `cd`, `ls`, `cp`, and `cat`
+* ``Run terminal commands such as `cd`, `ls`, `cp`, and `cat```
 * Pass different arguments to see how the output changes
 
 ## Moving Files over SSH with scp
