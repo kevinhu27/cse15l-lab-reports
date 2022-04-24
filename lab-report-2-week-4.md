@@ -7,4 +7,6 @@
 [Failure-inducing input](https://github.com/kevinhu27/markdown-parser/blob/0f4e555c293ea2e5b9547dc9b0837cadd6ff48ff/test-file2.md)
 
 
->Hello
+> The bug is that the code does not have a way to handle missing closing parantheses. 
+> The symptom is visible as an error stating that the index is going out of bounds since
+> the closing paranthesis is missing in the test file.
