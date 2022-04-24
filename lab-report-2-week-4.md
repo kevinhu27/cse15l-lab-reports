@@ -8,5 +8,6 @@
 
 
 > The bug is that the code does not have a way to handle missing closing parantheses. 
-> The symptom is visible as an error stating that the index is going out of bounds since
+> The symptom is visible as an error stating
+>  that the index is going out of bounds since
 > the closing paranthesis is missing in the test file.
