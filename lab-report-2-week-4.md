@@ -12,4 +12,6 @@
 > To address the bug, an if-statement case is included to handle the missing paranthesis.
 
 ## Code Change 2
+![codechange2](https://user-images.githubusercontent.com/78109412/165002266-30dbaa19-26ea-412d-9f01-c1e8d9ff459e.JPG)
+![failure2](https://user-images.githubusercontent.com/78109412/165002340-18d7e28c-cfa7-4710-82d6-80accca475e3.JPG)
 
