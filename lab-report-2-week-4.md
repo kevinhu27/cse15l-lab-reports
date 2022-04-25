@@ -26,6 +26,6 @@
 
 [Failure-inducing input](https://github.com/kevinhu27/markdown-parser/blob/45af9c3ebad49f60da1648a8e9d1696cfe1180da/test-file4.md)
 
-> The bug is that the code cannot handle the case in which brackets to denote a link are missing. 
+> The bug is that the code cannot handle the case where brackets to denote a link are missing. 
 > The symptom is shown as an output where the entire contents of the file are considerd to be a single link.
 > To address this bug, an if-statement is used to exit the while-loop in the case where there are no links present. 
