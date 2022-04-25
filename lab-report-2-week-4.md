@@ -13,6 +13,7 @@
 ## Code Change 2
 ![codechange2](https://user-images.githubusercontent.com/78109412/165002266-30dbaa19-26ea-412d-9f01-c1e8d9ff459e.JPG)
 ![failure2](https://user-images.githubusercontent.com/78109412/165002340-18d7e28c-cfa7-4710-82d6-80accca475e3.JPG)
+
 [Failure-inducing input](https://github.com/kevinhu27/markdown-parser/blob/823a0fb30f6442dfd02056509f882f26bf15e934/test-file3.md)
 
 > The bug is that the code does not know how to properly handle missing opening parentheses.
