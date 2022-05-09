@@ -32,6 +32,6 @@
 * Compile and run MarkdownParseTest.java 
 
 ![combinecommands](https://user-images.githubusercontent.com/78109412/167327876-7a430ff9-0f1b-456a-80f7-617957994f79.JPG)
-* Recursively copy files in markdown-parser and run MarkdownParseTest.java in a single line using `;`
+* Recursively copy files in markdown-parser and run MarkdownParseTest.java in a single line using `;` to separate commands
 
 
