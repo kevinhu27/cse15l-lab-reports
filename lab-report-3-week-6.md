@@ -25,3 +25,9 @@
 * Commit reflected in GitHub repository 
 
 ## Copy whole directories with `scp -r`
+![scppart3 1](https://user-images.githubusercontent.com/78109412/167327206-b75d5398-2093-4927-b05a-5154c7ecfa75.JPG)
+* Recursively copy the entire markdown-parser directory using the command `scp -r . ieng6:markdown-parse`
+
+![runtest](https://user-images.githubusercontent.com/78109412/167327559-5cbaa442-b348-4c34-9f91-ef9f04bc24ba.JPG)
+* Compile and run MarkdownParseTest.java 
+
