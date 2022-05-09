@@ -24,3 +24,4 @@
 ![linkcommit](https://user-images.githubusercontent.com/78109412/167326825-de423660-5c44-437f-8203-085eaa499220.JPG)
 * Commit reflected in GitHub repository 
 
+## Copy whole directories with `scp -r`
