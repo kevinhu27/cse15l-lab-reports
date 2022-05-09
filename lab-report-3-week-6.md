@@ -31,3 +31,7 @@
 ![runtest](https://user-images.githubusercontent.com/78109412/167327559-5cbaa442-b348-4c34-9f91-ef9f04bc24ba.JPG)
 * Compile and run MarkdownParseTest.java 
 
+![combinecommands](https://user-images.githubusercontent.com/78109412/167327876-7a430ff9-0f1b-456a-80f7-617957994f79.JPG)
+* Recursively copy files in markdown-parser and run MarkdownParseTest.java in a single line using `;`
+
+
