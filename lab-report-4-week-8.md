@@ -24,3 +24,10 @@
 
 ## Code Snippet 2
 ![preview2](https://user-images.githubusercontent.com/78109412/169719593-5f960885-c91e-4e07-90a8-7b53b1571f3b.JPG)
+
+### Test - Own Implementation
+![test2](https://user-images.githubusercontent.com/78109412/169719856-51bbf610-c0ca-4996-8e5f-1f3df281f197.JPG)
+
+### Test Result
+![testresult2](https://user-images.githubusercontent.com/78109412/169719902-62ca95d4-b068-44e9-8981-da4ef6800c46.jpg)
+
