@@ -56,4 +56,7 @@
 ## Test Result
 ![testresult3b](https://user-images.githubusercontent.com/78109412/169720664-00327146-7568-4d78-9a27-682dec15ab7e.JPG)
 
+> A more involved change is required in order to output all of the correct links. 
+> By having newlines and parantheses that do not close, it is difficult to determine where links start and end.
+> Various changes will need to be made in order to account for this case.
 
