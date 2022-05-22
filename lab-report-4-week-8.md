@@ -38,3 +38,10 @@
 ## Code Snippet 3
 ![preview3](https://user-images.githubusercontent.com/78109412/169720013-300b56a8-d19b-4cc2-8081-51f1038bc557.JPG)
 
+## Test - Own Implementation
+![test3](https://user-images.githubusercontent.com/78109412/169720389-e1b117d8-51b9-447c-a1dd-0e3f43d5ce54.JPG)
+
+## Test Result
+![testresult3](https://user-images.githubusercontent.com/78109412/169720410-7bc3e614-4310-4454-9cd4-0ebc59f0b626.JPG)
+
+
