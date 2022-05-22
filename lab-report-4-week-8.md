@@ -21,3 +21,6 @@
 
 > To handle backticks, a code change can be made to skip over them if they are found within the parantheses.
 > Since URLs should never contain backticks, omitting them if they are found can be a possible solution.
+
+## Code Snippet 2
+![preview2](https://user-images.githubusercontent.com/78109412/169719593-5f960885-c91e-4e07-90a8-7b53b1571f3b.JPG)
