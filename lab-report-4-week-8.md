@@ -1,7 +1,7 @@
 # Week 8 Lab
-[MarkdownParser Repository](https://github.com/kevinhu27/markdown-parser)
+[Markdown-parser Repository](https://github.com/kevinhu27/markdown-parser)
 
-[Reviewed MarkdownParser Repository](https://github.com/cynthia-bao/markdown-parser)
+[Reviewed Markdown-Parser Repository](https://github.com/cynthia-bao/markdown-parser)
 
 ## Code Snippet 1
 ### Expected Output
@@ -35,7 +35,6 @@
 
 ### Test - Reviewed Implementation
 ![test2b](https://user-images.githubusercontent.com/78109412/169720518-9f9e533b-bfd2-410b-a145-fd49de0d8f8a.JPG)
-
 
 ## Test Result
 ![testresult2b](https://user-images.githubusercontent.com/78109412/169720526-9d2dfa2a-0c03-43ea-ba40-9496248a6c38.JPG)
