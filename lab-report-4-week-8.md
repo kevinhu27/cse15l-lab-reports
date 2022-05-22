@@ -9,3 +9,6 @@
 
 ### Test Result
 ![testresult1](https://user-images.githubusercontent.com/78109412/169719146-d55c9a87-4586-41cf-83cc-945f2d248304.JPG)
+
+> To handle backticks, a code change can be made to skip over them if they are found within the parantheses.
+> Since URLs should never contain backticks, omitting them if they are found can be a possible solution.
