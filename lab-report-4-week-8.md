@@ -21,6 +21,7 @@
 
 
 ## Code Snippet 2
+### Expected Output
 ![preview2](https://user-images.githubusercontent.com/78109412/169719593-5f960885-c91e-4e07-90a8-7b53b1571f3b.JPG)
 
 ### Test - Own Implementation
@@ -42,6 +43,7 @@
 
 
 ## Code Snippet 3
+### Expected Output
 ![preview3](https://user-images.githubusercontent.com/78109412/169720013-300b56a8-d19b-4cc2-8081-51f1038bc557.JPG)
 
 ## Test - Own Implementation
