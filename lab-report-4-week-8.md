@@ -36,6 +36,9 @@
 ## Test Result
 ![testresult2b](https://user-images.githubusercontent.com/78109412/169720526-9d2dfa2a-0c03-43ea-ba40-9496248a6c38.JPG)
 
+> In order to handle the nesting of links, the location of the parantheses would have to be accounted for.
+> A possible code change would be to determine whether the link is located within brackets or parantheses and
+> disregard extra parantheses found within where the link is located.
 
 
 ## Code Snippet 3
