@@ -6,7 +6,7 @@
 > Lastly, the vimdiff command was used to open the two results.txt files to compare the differences in output.
 
 ### Test Files
-[Test File 17](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/17.md)
+[Test File 1](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/17.md)
 
 ## Test File 1 (17.md)
 * The shared implementation of markdown-parser produced the expected result.
