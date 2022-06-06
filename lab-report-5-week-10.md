@@ -23,6 +23,7 @@
 ### Expected Output
 ![expectedoutput17](https://user-images.githubusercontent.com/78109412/172078422-a6584e4f-8cb5-4510-bb2d-43c616defb24.JPG)
 > Since there are no valid links along with missing parantheses and brackets, the output should be empty.
+> 
 > Expected output: [ ]
 
 ### Implementation Issue
