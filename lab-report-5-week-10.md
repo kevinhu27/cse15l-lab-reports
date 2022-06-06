@@ -23,5 +23,6 @@
 * Since there are no valid links along with missing parantheses and brackets, the output should be empty.
 
 ![codechange1](https://user-images.githubusercontent.com/78109412/172078779-654c0c1b-fadc-4bad-8e9f-d258862ef68d.JPG)
-> Additional checks are needed for the opening and closing brackets separately. This code only checks that both brackets are missing.
+> Additional checks are needed for the opening and closing brackets separately. 
+> This code only checks that both brackets are missing.
 > As a result, opening brackets are being added as there is no case that checks for the closing bracket.
