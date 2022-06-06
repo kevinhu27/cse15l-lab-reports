@@ -44,6 +44,7 @@
 ### Expected Output
 ![expectedoutput192](https://user-images.githubusercontent.com/78109412/172079468-43ef9ad0-951c-4048-884b-4f9f62f652b5.JPG)
 > There are no valid links as links should be contained within opening and closing parantheses. The output should be empty as a result.
+> Expected output: [ ]
 
 ### Implementation Issue
 ![codechange2](https://user-images.githubusercontent.com/78109412/172079775-6a5a8454-a2af-4216-b56b-b4da8407b5eb.JPG)
