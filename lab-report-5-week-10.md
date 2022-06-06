@@ -7,6 +7,7 @@
 
 ### Test Files
 [Test File 1](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/17.md)
+[Test File 2](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/192.md)
 
 ## Test File 1 (17.md)
 * The shared implementation of markdown-parser produced the expected result.
