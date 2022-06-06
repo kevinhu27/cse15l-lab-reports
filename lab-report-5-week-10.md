@@ -29,3 +29,17 @@
 * Additional checks are needed for the opening and closing brackets separately. 
 * This code only checks that both brackets are missing.
 * As a result, opening brackets are being added as there is no case that checks for the closing bracket.
+
+## Test File 2(192.md)
+* The shared implementation produced the expected result.
+* My own implementation did not product the expected result.
+
+### Shared Implementation Output
+![test192](https://user-images.githubusercontent.com/78109412/172079348-82f411d7-6319-49b5-bbb5-bad454887e3c.JPG)
+
+### Own Implementation Output
+![test1922](https://user-images.githubusercontent.com/78109412/172079381-2ecc3666-42a3-47fd-a904-7e3ea00de9f0.JPG)
+
+### Expected Output
+![expectedoutput192](https://user-images.githubusercontent.com/78109412/172079468-43ef9ad0-951c-4048-884b-4f9f62f652b5.JPG)
+
