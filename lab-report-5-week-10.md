@@ -16,5 +16,6 @@
 ![test17](https://user-images.githubusercontent.com/78109412/172078159-46f02bb2-8749-40d8-8119-cc1c25708af6.JPG)
 
 ### Own Implementation Output
-![test171](https://user-images.githubusercontent.com/78109412/172078188-1c975f7e-9dee-4f3e-8354-9acdce11f776.JPG)
+![test172](https://user-images.githubusercontent.com/78109412/172078303-4ce2b3f1-c007-4cdc-b633-cbfd915b4719.JPG)
+
 
